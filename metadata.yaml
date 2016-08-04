@@ -1,0 +1,27 @@
+_repo: Poems-of-William-Blake_574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blake, William
+    alias: Blake, W. (William)
+    birthdate: 1757
+    deathdate: 1827
+    gutenberg_agent_id: '295'
+    url: http://www.gutenberg.org/2009/agents/295
+    wikipedia: http://en.wikipedia.org/wiki/William_Blake
+description: ''
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral poetry'
+- !lcc 'PR'
+- !lcsh 'English poetry'
+- GITenberg
+title: Poems of William Blake
+url: http://www.gutenberg.org/ebooks/574
